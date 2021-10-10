@@ -6,7 +6,10 @@
  
  These scripts do NOT work in VS Code,  you need to run them via terminal or ISE (The box to select file does not open)
  
- Runsteps
+ Runsteps:
+ 
+ 
+ 
  Archive the files you want to send if multiple (with password for security)
 
 Run Convert-zip2txt and select the file or archive
