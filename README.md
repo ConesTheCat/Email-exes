@@ -1,5 +1,5 @@
 # Email exes
- Script I use to email blocked attachments via email to different networks which are locked down.  If you can copy paste between sessions/networks, you can skip the email part and just put the results into the clipboard, or update the scripts to put the output into clip and import again through clip.
+ Script I use to email blocked attachments to different networks which are locked down.  If you can copy paste between sessions/networks, you can skip the email part and just put the results into the clipboard, or update the scripts to put the output into clip and import again through clip.
  
  
  These are modules (PS1M) and I have added them to run with powershell, but they can be renamed back to .ps1 and ran manually
